@@ -1,0 +1,15 @@
+C:\Users\Allahverdi\Desktop\Code\BackEnd\C#\CustomListArrayCollections\bin\Debug\net6.0\CustomListArrayCollections.exe
+C:\Users\Allahverdi\Desktop\Code\BackEnd\C#\CustomListArrayCollections\bin\Debug\net6.0\CustomListArrayCollections.deps.json
+C:\Users\Allahverdi\Desktop\Code\BackEnd\C#\CustomListArrayCollections\bin\Debug\net6.0\CustomListArrayCollections.runtimeconfig.json
+C:\Users\Allahverdi\Desktop\Code\BackEnd\C#\CustomListArrayCollections\bin\Debug\net6.0\CustomListArrayCollections.dll
+C:\Users\Allahverdi\Desktop\Code\BackEnd\C#\CustomListArrayCollections\bin\Debug\net6.0\CustomListArrayCollections.pdb
+C:\Users\Allahverdi\Desktop\Code\BackEnd\C#\CustomListArrayCollections\obj\Debug\net6.0\CustomListArrayCollections.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Allahverdi\Desktop\Code\BackEnd\C#\CustomListArrayCollections\obj\Debug\net6.0\CustomListArrayCollections.AssemblyInfoInputs.cache
+C:\Users\Allahverdi\Desktop\Code\BackEnd\C#\CustomListArrayCollections\obj\Debug\net6.0\CustomListArrayCollections.AssemblyInfo.cs
+C:\Users\Allahverdi\Desktop\Code\BackEnd\C#\CustomListArrayCollections\obj\Debug\net6.0\CustomListArrayCollections.csproj.CoreCompileInputs.cache
+C:\Users\Allahverdi\Desktop\Code\BackEnd\C#\CustomListArrayCollections\obj\Debug\net6.0\CustomListArrayCollections.sourcelink.json
+C:\Users\Allahverdi\Desktop\Code\BackEnd\C#\CustomListArrayCollections\obj\Debug\net6.0\CustomListArrayCollections.dll
+C:\Users\Allahverdi\Desktop\Code\BackEnd\C#\CustomListArrayCollections\obj\Debug\net6.0\refint\CustomListArrayCollections.dll
+C:\Users\Allahverdi\Desktop\Code\BackEnd\C#\CustomListArrayCollections\obj\Debug\net6.0\CustomListArrayCollections.pdb
+C:\Users\Allahverdi\Desktop\Code\BackEnd\C#\CustomListArrayCollections\obj\Debug\net6.0\CustomListArrayCollections.genruntimeconfig.cache
+C:\Users\Allahverdi\Desktop\Code\BackEnd\C#\CustomListArrayCollections\obj\Debug\net6.0\ref\CustomListArrayCollections.dll
